@@ -30,7 +30,7 @@
 
 1.  **استنساخ المستودع:**
     ```bash
-    git clone [https://github.com/USERNAME/REPO_NAME.git](https://github.com/USERNAME/REPO_NAME.git)
+    git clone [https://github.com/USERNAME/Gemini-OCR-Arabic.git](https://github.com/USERNAME/Gemini-OCR-Arabic.git)
     cd REPO_NAME
     ```
 
